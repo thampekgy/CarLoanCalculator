@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">CarLoanCalculator</string>
+
+    <string name="car_price" translatable="false">Car Price</string>
+    <string name="down_payment" translatable="false">Down Payment</string>
+    <string name="loan_period" translatable="false">Loan Period (Year)</string>
+    <string name="interest_rate" translatable="false">Interest Rate (%)</string>
+    <string name="load" translatable="false">Load :</string>
+    <string name="interest" translatable="false">Interest :</string>
+    <string name="monthly_replacement" translatable="false">Monthly Replacement: </string>
+    <string name="calculate" translatable="false">Calculate</string>
+    <string name="reset" translatable="false">Reset</string>
+
+    <string name="error_input" translatable="false">Error: Cant be empty.</string>
+
+
+</resources>
